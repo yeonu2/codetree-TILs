@@ -1,2 +1,2 @@
 a,b,c=map(int,input().split('-'))
-print("%d-%d-%d"%(a,c,b))
+print("010-%d-%d"%(c,b))
