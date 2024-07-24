@@ -1,0 +1,5 @@
+a=list(map(int,input().split()))
+c=sum(a)
+print(c)
+print(int(c/3))
+print(int(c-c/3))
