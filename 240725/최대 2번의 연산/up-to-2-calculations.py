@@ -4,4 +4,4 @@ if a%2==0:
 if a%2==1:
     a+=1
     a/=2
-print(int(a)
+print(int(a))
