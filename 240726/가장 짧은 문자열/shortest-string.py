@@ -1,0 +1,12 @@
+list=[]
+a=input()
+b=input()
+c=input()
+an=len(a)
+bn=len(b)
+cn=len(c)
+list.append(an)
+list.append(bn)
+list.append(cn)
+list.sort()
+print(list[2]-list[0])
